@@ -1,0 +1,6 @@
+2023-04-12 17:11:42.900  INFO [SERVICE-TWO,a92cbc43dbeff171,30491f2175f9dad3] 43612 --- [http-nio-9091-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-12 17:11:42.901  INFO [SERVICE-TWO,a92cbc43dbeff171,30491f2175f9dad3] 43612 --- [http-nio-9091-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-04-12 17:11:42.903  INFO [SERVICE-TWO,a92cbc43dbeff171,30491f2175f9dad3] 43612 --- [http-nio-9091-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-04-12 17:11:42.917  INFO [SERVICE-TWO,a92cbc43dbeff171,30491f2175f9dad3] 43612 --- [http-nio-9091-exec-1] com.dts.controller.ServiceTwoController  : <<<<<<<< shootServiceTwo()
+2023-04-12 17:11:42.918  INFO [SERVICE-TWO,a92cbc43dbeff171,30491f2175f9dad3] 43612 --- [http-nio-9091-exec-1] com.dts.controller.ServiceTwoController  : PROCESSING SOMETHING....
+2023-04-12 17:11:42.919  INFO [SERVICE-TWO,a92cbc43dbeff171,30491f2175f9dad3] 43612 --- [http-nio-9091-exec-1] com.dts.controller.ServiceTwoController  : shootServiceTwo() >>>>>>>>>>
